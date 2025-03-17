@@ -40,7 +40,7 @@
 
 [![Jaydeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydeep869&show_icons=true&theme=radical)](https://github.com/jaydeep869)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep869&layout=compact&theme=radical)](https://github.com/jaydeep869)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep869&layout=compact&theme=radical&hide=css)](https://github.com/jaydeep869)
 
 ---
 
