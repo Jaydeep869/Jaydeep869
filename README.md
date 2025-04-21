@@ -1,6 +1,6 @@
 # Hey, I'm Jaydeep Pokhariya! 👨💻⚡
 
-**`Engineering Student | Full Stack Developer`**  
+**`Engineering Student | Aspiring Full Stack Developer`**  
 🎓 Pursuing B.Tech @ **IIT BHU**  
 🌐 Building robust solutions at the intersection of technology and innovation
 
