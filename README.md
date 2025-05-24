@@ -55,6 +55,3 @@
 - 👨💻 [GitHub](https://github.com/Jaydeep869) - Explore my projects
 
 ---
-
-> "Engineering is the art of directing the great sources of power in nature for the use and convenience of humans." - Thomas Tredgold  
-> *Let's engineer exceptional digital experiences!* 🔧🚀
