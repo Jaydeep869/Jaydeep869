@@ -23,7 +23,7 @@ func main() {
 ---
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydeep869&show_icons=true&theme=tokyonight" alt="Jaydeep's GitHub stats" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydeep869&include_all_commits=true&theme=tokyonight" alt="Jaydeep's GitHub stats" height="140" />
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep869&layout=compact&theme=tokyonight" alt="Jaydeep's Top Languages" height="150" />
