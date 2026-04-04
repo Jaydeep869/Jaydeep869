@@ -37,7 +37,7 @@
   ],
   "languages": [
     "Go", "Rust", "Solidity",
-    "Python", "JavaScript", "R"
+    "Python", "JavaScript", "C++"
   ],
   "stack": [
     "Kubernetes", "Docker", "Linux",
