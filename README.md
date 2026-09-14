@@ -20,31 +20,6 @@
 
 </div>
 
----
-
-## ⚡ `whoami`
-
-```json
-{
-  "name": "Jaydeep Pokhariya",
-  "current_focus": [
-	"Blockchain Infrastructure",
-    "DevOps & Cloud Native",
-    "Generative AI & LLMs"
-  ],
-  "languages": [
-    "Go", "Rust", "Solidity",
-    "Python", "JavaScript", "C++"
-  ],
-  "stack": [
-    "Kubernetes", "Docker", "Linux",
-    "React", "Next.js"
-  ],
-  "status": "🧠 Learning | 🛠 Building | 🚀 Shipping"
-}
-```
-
----
 
 ## 🛠️ Arsenal
 
