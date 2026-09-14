@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header - Fire/Amber Theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:06d6a0&height=200&section=header&text=Jaydeep%20Pokhariya&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=A%20passionate%20developer%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20Building%20systems%20that%20scale&descAlignY=52&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:06d6a0&height=200&section=header&text=Jaydeep%20Pokhariya&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
 
 <br/>
 
