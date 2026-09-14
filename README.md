@@ -20,8 +20,7 @@
 
 </div>
 
-
-## 🛠️ Arsenal
+---
 
 <div align="center">
 <p>
@@ -37,7 +36,6 @@
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center">
   <!-- Dynamic Snake (Time-based Theme) -->
